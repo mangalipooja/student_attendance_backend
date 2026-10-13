@@ -1,0 +1,7 @@
+target/
+.vscode/
+error-log.txt
+error.txt
+startup-log.txt
+student-attendance-frontend/
+src/main/resources/application.properties
